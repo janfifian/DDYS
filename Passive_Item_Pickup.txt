@@ -1,0 +1,2 @@
+Leather Tunic;2;MaxHPIncrease(200); FlatArmorIncrease(20);LeatherArmor.png;Protects your body from their fists...\n But not from their words.;
+Mechanical Heart;2;FlatDamageIncreaseIncrease(10);MaxHPIncrease(300);MechanicalHeart.png;Cold-hearted murder machine.\n You are not like her.;

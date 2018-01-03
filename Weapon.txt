@@ -1,0 +1,2 @@
+Wooden Sword;50;100;1000;woodensword.png;Even though it is made of wood,\n a blow from this is going to hurt.;
+Short Sword;80;120;1100;shortsword.png;A little heavier.\n A little deadlier.;

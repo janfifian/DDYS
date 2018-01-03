@@ -1,0 +1,3 @@
+Tiny HP Potion;100;hitPoints;tinyhppotion.png;A momentary relief...;
+Tiny MP Potion;100;manaPoints;tinymppotion.png;A spark of power...;
+Gold Coin;1;goldHeld;goldcoin.png;Gold!;
